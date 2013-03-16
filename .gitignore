@@ -43,6 +43,7 @@ $RECYCLE.BIN/
 
 .*
 !.gitignore
+!.travis.yml
 *~
 
 # CDT-specific
